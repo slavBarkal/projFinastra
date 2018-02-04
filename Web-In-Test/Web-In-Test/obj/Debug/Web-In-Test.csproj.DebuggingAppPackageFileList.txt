@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\Web-In-TestManifest.xml
+C:\Users\ohads\Documents\Visual Studio 2017\Projects\Web-In-Test\Web-In-Test\bin\Debug\Web-In-Test.debugapp

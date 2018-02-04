@@ -1,0 +1,7 @@
+False
+fcb1dc5a-922b-4587-9326-8ce27576058098f95eb5-83c3-4c8a-bc7d-60aa9faa3988
+{cb5dd054-b9ac-46a4-9a07-46626ac52f87}{2b679e2d-bab3-42cd-83ee-7ac3f2edc8b2}
+{e7acebd5-da91-4581-8eaf-f2e40d6fe24a}
+1.0.0.0
+Web-In-Test
+_layouts/15/
