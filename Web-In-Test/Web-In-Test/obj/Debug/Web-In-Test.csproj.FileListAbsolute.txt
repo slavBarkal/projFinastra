@@ -24,3 +24,30 @@ c:\users\ohads\documents\visual studio 2017\Projects\Web-In-Test\Web-In-Test\bin
 c:\users\ohads\documents\visual studio 2017\Projects\Web-In-Test\Web-In-Test\bin\Debug\roslyn\vbc.rsp
 c:\users\ohads\documents\visual studio 2017\Projects\Web-In-Test\Web-In-Test\bin\Debug\roslyn\VBCSCompiler.exe
 c:\users\ohads\documents\visual studio 2017\Projects\Web-In-Test\Web-In-Test\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\obj\Debug\Web-In-Test.csproj.CoreCompileInputs.cache
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\csc.exe
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\csc.exe.config
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\csc.rsp
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\csi.exe
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\csi.rsp
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\System.AppContext.dll
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\vbc.exe
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\vbc.exe.config
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\vbc.rsp
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\VBCSCompiler.exe
+C:\sela\finastraProj\Web-In-Test\Web-In-Test\bin\Debug\roslyn\VBCSCompiler.exe.config
